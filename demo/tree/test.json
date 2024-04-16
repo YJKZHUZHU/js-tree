@@ -1,0 +1,110 @@
+[
+  {
+    "code": "P020CSD",
+    "dimName": "广州增城仓储部",
+    "num": "0",
+    "parentCode": "P020LYB",
+    "parentDimName": "广州DC",
+    "numerator": 0,
+    "denominator": 1
+  },
+  {
+    "code": "P027CSA",
+    "dimName": "武汉东西湖仓储部",
+    "num": "0",
+    "parentCode": "P027LYB",
+    "parentDimName": "武汉DC",
+    "numerator": 0,
+    "denominator": 1
+  },
+  {
+    "code": "P769CSB",
+    "dimName": "深莞惠常平仓储部",
+    "num": "0",
+    "parentCode": "P769LYB",
+    "parentDimName": "深莞惠DC",
+    "numerator": 0,
+    "denominator": 20
+  },
+  {
+    "code": "P010CSB",
+    "dimName": "北京通州仓储部",
+    "num": "0",
+    "parentCode": "P010LYB",
+    "parentDimName": "北京DC",
+    "numerator": 0,
+    "denominator": 0
+  },
+  {
+    "code": "P311CSB",
+    "dimName": "石家庄元氏仓储部",
+    "num": "0",
+    "parentCode": "P311LYB",
+    "parentDimName": "石家庄DC",
+    "numerator": 0,
+    "denominator": 0
+  },
+  {
+    "code": "P371CSA",
+    "dimName": "郑州管城仓储部",
+    "num": "0",
+    "parentCode": "P371LYB",
+    "parentDimName": "郑州DC",
+    "numerator": 0,
+    "denominator": 0
+  },
+  {
+    "code": "P021CSC",
+    "dimName": "上海青浦仓储部",
+    "num": "0",
+    "parentCode": "P021LYB",
+    "parentDimName": "上海DC",
+    "numerator": 0,
+    "denominator": 0
+  },
+  {
+    "code": "P571CSA",
+    "dimName": "杭州萧山仓储部",
+    "num": "0.53",
+    "parentCode": "P571LYB",
+    "parentDimName": "杭州DC",
+    "numerator": 91,
+    "denominator": 172
+  },
+  {
+    "code": "P028CSB",
+    "dimName": "成都双流仓储部",
+    "num": "1",
+    "parentCode": "P028LYB",
+    "parentDimName": "成都DC",
+    "numerator": 3,
+    "denominator": 3
+  },
+  {
+    "code": "P571CTA",
+    "dimName": "杭州萧山运输部",
+    "num": "1",
+    "parentCode": "P571LYB",
+    "parentDimName": "杭州DC",
+    "numerator": 14,
+    "denominator": 14
+  },
+  {
+    "code": "P571CDA",
+    "dimName": "杭州萧山中转部",
+    "num": "1",
+    "parentCode": "P571LYB",
+    "parentDimName": "杭州DC",
+    "numerator": 16,
+    "denominator": 16
+  },
+  {
+    "code": "P576LFB",
+    "dimName": "台州仙居营业部",
+    "num": "1",
+    "parentCode": "P571LYB",
+    "parentDimName": "杭州DC",
+    "numerator": 23,
+    "denominator": 23
+  }
+]

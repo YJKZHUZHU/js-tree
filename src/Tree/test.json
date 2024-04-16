@@ -1,0 +1,2696 @@
+[
+  {
+    "id": 10155538218773,
+    "code": "CN32",
+    "name": "冷运事业部",
+    "parentCode": "001",
+    "children": [
+      {
+        "id": 10117324556981,
+        "code": "P010Y",
+        "name": "华北区域公司",
+        "parentCode": "CN32",
+        "children": [
+          {
+            "id": 10209883190687,
+            "code": "P024LYB",
+            "name": "沈阳DC",
+            "parentCode": "P010Y",
+            "children": [
+              {
+                "id": 72719573501455,
+                "code": "P024LYB",
+                "name": "沈阳DC",
+                "parentCode": "P024LYB",
+                "children": [
+                  {
+                    "id": 6917173508025,
+                    "code": "P024CDB",
+                    "name": "沈阳浑南食品中转部",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 7811016590225,
+                    "code": "P024CKB",
+                    "name": "沈阳浑南食品配送部",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 1428464581125,
+                    "code": "P024CSB",
+                    "name": "沈阳浑南仓储部",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 80329840575795,
+                    "code": "P024CTA",
+                    "name": "沈阳浑南食品运输部",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 38800921568985,
+                    "code": "P024LFC",
+                    "name": "沈阳于洪批发市场营业点",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 66963827560925,
+                    "code": "P024LFD",
+                    "name": "沈阳八家子冷运代表营业点",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 89059884579745,
+                    "code": "P024LFE",
+                    "name": "沈阳塔湾水产专业市场冷运营业点",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 97783921589705,
+                    "code": "P024LFF",
+                    "name": "沈阳诚大专业市场冷运营业点",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 69911047578015,
+                    "code": "P416LFA",
+                    "name": "锦州冷运代表营业点",
+                    "parentCode": "P024LYB"
+                  },
+                  {
+                    "id": 29250018560785,
+                    "code": "P427LFG",
+                    "name": "辽宁盘锦冷运营业点",
+                    "parentCode": "P024LYB"
+                  }
+                ]
+              },
+              {
+                "id": 28882093585205,
+                "code": "P411LYB",
+                "name": "大连DC",
+                "parentCode": "P024LYB",
+                "children": [
+                  {
+                    "id": 11090879596315,
+                    "code": "P411CDA",
+                    "name": "大连甘井子食品中转部",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 47267099521725,
+                    "code": "P411CKA",
+                    "name": "大连甘井子配送部",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 90252875560905,
+                    "code": "P411CSA",
+                    "name": "大连甘井子仓储部",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 36138407504625,
+                    "code": "P411CTA",
+                    "name": "大连甘井子食品运输部",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 8889118588955,
+                    "code": "P411LFB",
+                    "name": "大连湾冷运营业点",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 53910138565215,
+                    "code": "P411LFC",
+                    "name": "大连金州冷运营业点",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 21057652540095,
+                    "code": "P411LFD",
+                    "name": "普兰店冷运代表营业点",
+                    "parentCode": "P411LYB"
+                  },
+                  {
+                    "id": 20185995551705,
+                    "code": "P415LFB",
+                    "name": "辽宁丹东冷运代表营业点",
+                    "parentCode": "P411LYB"
+                  }
+                ]
+              },
+              {
+                "id": 70880220577025,
+                "code": "P431LYB",
+                "name": "黑龙江DC",
+                "parentCode": "P024LYB",
+                "children": [
+                  {
+                    "id": 11003209524875,
+                    "code": "P431CDA",
+                    "name": "长春高新食品中转部",
+                    "parentCode": "P431LYB"
+                  },
+                  {
+                    "id": 99563214571115,
+                    "code": "P431CTA",
+                    "name": "长春高新食品运输部",
+                    "parentCode": "P431LYB"
+                  },
+                  {
+                    "id": 44810757500025,
+                    "code": "P431LFB",
+                    "name": "长春冷运代表营业点",
+                    "parentCode": "P431LYB"
+                  },
+                  {
+                    "id": 9067278501145,
+                    "code": "P433LFB",
+                    "name": "吉林延边冷运代表营业点",
+                    "parentCode": "P431LYB"
+                  },
+                  {
+                    "id": 67784193509205,
+                    "code": "P433LFC",
+                    "name": "延吉冷运代表营业点",
+                    "parentCode": "P431LYB"
+                  },
+                  {
+                    "id": 40968702535755,
+                    "code": "P438LFA",
+                    "name": "松原市冷运代表营业网点",
+                    "parentCode": "P431LYB"
+                  }
+                ]
+              },
+              {
+                "id": 9889458541535,
+                "code": "P451LYB",
+                "name": "吉林DC",
+                "parentCode": "P024LYB",
+                "children": [
+                  {
+                    "id": 67103215500395,
+                    "code": "P451CDA",
+                    "name": "哈尔滨呼兰食品中转部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 77821641501895,
+                    "code": "P451CKA",
+                    "name": "哈尔滨呼兰食品配送部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 97665201546085,
+                    "code": "P451CSA",
+                    "name": "哈尔滨呼兰仓储部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 78204377505995,
+                    "code": "P451CTA",
+                    "name": "哈尔滨呼兰食品运输部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 19742178500485,
+                    "code": "P451LFD",
+                    "name": "哈尔滨江北冷运代表营业点",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 97090807561245,
+                    "code": "P453LFC",
+                    "name": "牡丹江冷运代表营业点",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 70981978514885,
+                    "code": "P454LFB",
+                    "name": "佳木斯冷运代表营业点",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 26707093575025,
+                    "code": "P470CDA",
+                    "name": "呼伦贝尔鄂温克食品中转部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 21229159542005,
+                    "code": "P470CKA",
+                    "name": "呼伦贝尔鄂温克食品配送部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 80801882598985,
+                    "code": "P470CSA",
+                    "name": "呼伦贝尔鄂温克仓储部",
+                    "parentCode": "P451LYB"
+                  },
+                  {
+                    "id": 22437671541705,
+                    "code": "P470LFC",
+                    "name": "海拉尔冷运代表营业点",
+                    "parentCode": "P451LYB"
+                  }
+                ]
+              },
+              {
+                "id": 82801508594315,
+                "code": "P470LYB",
+                "name": "呼伦贝尔DC",
+                "parentCode": "P024LYB"
+              }
+            ]
+          },
+          {
+            "id": 10209883190689,
+            "code": "P010LYB",
+            "name": "北京DC",
+            "parentCode": "P010Y",
+            "children": [
+              {
+                "id": 5001762507995,
+                "code": "P010LYB",
+                "name": "北京DC",
+                "parentCode": "P010LYB",
+                "children": [
+                  {
+                    "id": 84667947570085,
+                    "code": "P010CDB",
+                    "name": "北京通州食品中转部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 12335705570295,
+                    "code": "P010CKA",
+                    "name": "北京通州口岸仓食品配送部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 66169824569895,
+                    "code": "P010CKB",
+                    "name": "北京通州食品配送部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 8471156587445,
+                    "code": "P010CKD",
+                    "name": "北京通州口岸食品配送部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 82800892538125,
+                    "code": "P010CSB",
+                    "name": "北京通州仓储部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 89997620597195,
+                    "code": "P010CSD",
+                    "name": "北京通州口岸食品仓储部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 3789616584085,
+                    "code": "P010CSE",
+                    "name": "北京顺义食品仓储部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 21317875526165,
+                    "code": "P010CTA",
+                    "name": "北京通州食品运输部",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 48923942577875,
+                    "code": "P010LFA",
+                    "name": "北京冷运代表营业点",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 27201661573405,
+                    "code": "P010LFB",
+                    "name": "北京朝阳冷运营业点",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 63508377592335,
+                    "code": "P010LFD",
+                    "name": "北京顺义冷运营业点",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 74512800511685,
+                    "code": "P010LFE",
+                    "name": "北京京深海鲜市场冷运营业点",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 34622221522525,
+                    "code": "P010LFW",
+                    "name": "北京通州冷运营业点",
+                    "parentCode": "P010LYB"
+                  },
+                  {
+                    "id": 97571219550405,
+                    "code": "P010LFZ",
+                    "name": "北京昌平冷运营业点",
+                    "parentCode": "P010LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190691,
+            "code": "P022LYB",
+            "name": "天津DC",
+            "parentCode": "P010Y",
+            "children": [
+              {
+                "id": 99050937542105,
+                "code": "P022LYB",
+                "name": "天津DC",
+                "parentCode": "P022LYB",
+                "children": [
+                  {
+                    "id": 80994741540255,
+                    "code": "P022CDA",
+                    "name": "天津蓝玺食品中转部",
+                    "parentCode": "P022LYB"
+                  },
+                  {
+                    "id": 8807772540775,
+                    "code": "P022CKA",
+                    "name": "天津蓝玺食品配送部",
+                    "parentCode": "P022LYB"
+                  },
+                  {
+                    "id": 88040326522865,
+                    "code": "P022CSA",
+                    "name": "天津蓝玺仓储部",
+                    "parentCode": "P022LYB"
+                  },
+                  {
+                    "id": 14129856581805,
+                    "code": "P022CTA",
+                    "name": "天津蓝玺食品运输部",
+                    "parentCode": "P022LYB"
+                  },
+                  {
+                    "id": 29202091594175,
+                    "code": "P022LFA",
+                    "name": "天津冷运代表营业点",
+                    "parentCode": "P022LYB"
+                  },
+                  {
+                    "id": 94497522512615,
+                    "code": "P022LFB",
+                    "name": "塘沽冷运代表营业点",
+                    "parentCode": "P022LYB"
+                  },
+                  {
+                    "id": 77252009548495,
+                    "code": "P022LFE",
+                    "name": "天津北辰冷运营业点",
+                    "parentCode": "P022LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190692,
+            "code": "P311LYB",
+            "name": "石家庄DC",
+            "parentCode": "P010Y",
+            "children": [
+              {
+                "id": 22999494520875,
+                "code": "P311LYB",
+                "name": "石家庄DC",
+                "parentCode": "P311LYB",
+                "children": [
+                  {
+                    "id": 57071100590815,
+                    "code": "P310LFA",
+                    "name": "邯郸冷运营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 70922812573285,
+                    "code": "P311CDA",
+                    "name": "石家庄裕华食品中转部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 94012021527585,
+                    "code": "P311CSB",
+                    "name": "石家庄元氏食品仓储部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 18540972573395,
+                    "code": "P311CTA",
+                    "name": "石家庄裕华食品运输部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 79292882577025,
+                    "code": "P311LFA",
+                    "name": "石家庄冷运营业部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 94925922525305,
+                    "code": "P315LFB",
+                    "name": "唐山冷运代表营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 28998721516505,
+                    "code": "P316LFA",
+                    "name": "廊坊冷运代表营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 96899299501295,
+                    "code": "P317LFA",
+                    "name": "沧州黄骅冷运代表营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 19204020500805,
+                    "code": "P335LFB",
+                    "name": "秦皇岛山海关冷运营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 22629808518395,
+                    "code": "P351CDA",
+                    "name": "太原小店食品中转部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 8522705536555,
+                    "code": "P351CKA",
+                    "name": "太原小店食品配送部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 24008086569305,
+                    "code": "P351CSA",
+                    "name": "太原小店仓储部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 22868719581965,
+                    "code": "P351CTA",
+                    "name": "太原小店食品运输部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 22588120503905,
+                    "code": "P351LFC",
+                    "name": "太原小店冷运营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 28437206537685,
+                    "code": "P358LFA",
+                    "name": "吕梁文水冷运营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 18982830562215,
+                    "code": "P471CKA",
+                    "name": "呼和浩特新城配送部",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 93000000595155,
+                    "code": "P471LFA",
+                    "name": "呼和浩特新城冷运营业点",
+                    "parentCode": "P311LYB"
+                  },
+                  {
+                    "id": 19267165536015,
+                    "code": "P479LFA",
+                    "name": "锡林郭勒盟冷运代表营业点",
+                    "parentCode": "P311LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190694,
+            "code": "P532LYB",
+            "name": "青岛DC",
+            "parentCode": "P010Y",
+            "children": [
+              {
+                "id": 29019319574755,
+                "code": "P531LYB",
+                "name": "济南DC",
+                "parentCode": "P532LYB",
+                "children": [
+                  {
+                    "id": 30023400527405,
+                    "code": "P531CDA",
+                    "name": "济南天桥食品中转部",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 67822519598925,
+                    "code": "P531CKA",
+                    "name": "济南天桥食品配送部",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 69422285599115,
+                    "code": "P531CSA",
+                    "name": "济南天桥仓储部",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 90866508582125,
+                    "code": "P531CTA",
+                    "name": "济南天桥食品运输部",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 78356123535935,
+                    "code": "P531LFB",
+                    "name": "济南冷运代表营业点",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 19721206585865,
+                    "code": "P534LFD",
+                    "name": "德州冷运代表营业点",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 97392829519005,
+                    "code": "P536CKA",
+                    "name": "潍坊寒亭食品配送部",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 27182183529275,
+                    "code": "P536LFB",
+                    "name": "潍坊冷运代表营业点",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 96775718527045,
+                    "code": "P538LFA",
+                    "name": "泰安泮河冷运营业点",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 72918219505115,
+                    "code": "P539LFA",
+                    "name": "山东临沂冷运营业点",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 89779901577415,
+                    "code": "P633LFA",
+                    "name": "山东日照冷运代表营业点",
+                    "parentCode": "P531LYB"
+                  },
+                  {
+                    "id": 89279918539715,
+                    "code": "P635LFC",
+                    "name": "阳谷冷运代表营业点",
+                    "parentCode": "P531LYB"
+                  }
+                ]
+              },
+              {
+                "id": 78127998530885,
+                "code": "P532LYB",
+                "name": "青岛DC",
+                "parentCode": "P532LYB",
+                "children": [
+                  {
+                    "id": 70034402550765,
+                    "code": "P532CDA",
+                    "name": "青岛城阳食品中转部",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 90747022521755,
+                    "code": "P532CKA",
+                    "name": "青岛城阳食品配送部",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 7876453572975,
+                    "code": "P532CKB",
+                    "name": "青岛城阳水产项目食品配送部",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 89577397554215,
+                    "code": "P532CSA",
+                    "name": "青岛城阳仓储部",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 15811803544365,
+                    "code": "P532CTA",
+                    "name": "青岛城阳食品运输部",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 7007110564925,
+                    "code": "P532LFE",
+                    "name": "青岛冷运代表营业点",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 22646047522255,
+                    "code": "P532LFF",
+                    "name": "青岛即墨济青水产营业点",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 3475887598225,
+                    "code": "P532LFG",
+                    "name": "青岛冷运代表营业点",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 80088980520765,
+                    "code": "P532LFH",
+                    "name": "济青水产市场冷运代表营业点",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 72485703528315,
+                    "code": "P532LFJ",
+                    "name": "城阳海产市场冷运代表营业点",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 20870270530785,
+                    "code": "P532LFK",
+                    "name": "西海岸冷运代表营业点",
+                    "parentCode": "P532LYB"
+                  },
+                  {
+                    "id": 32211339579585,
+                    "code": "P631LFA",
+                    "name": "威海市冷运代表营业网点",
+                    "parentCode": "P532LYB"
+                  }
+                ]
+              },
+              {
+                "id": 29519121572115,
+                "code": "P535LYB",
+                "name": "青岛DC",
+                "parentCode": "P532LYB",
+                "children": [
+                  {
+                    "id": 37475188519915,
+                    "code": "P535CDA",
+                    "name": "烟台芝罘食品中转部",
+                    "parentCode": "P535LYB"
+                  },
+                  {
+                    "id": 61081908529785,
+                    "code": "P535CKA",
+                    "name": "烟台芝罘配送部",
+                    "parentCode": "P535LYB"
+                  },
+                  {
+                    "id": 8106356522305,
+                    "code": "P535CTA",
+                    "name": "烟台芝罘食品运输部",
+                    "parentCode": "P535LYB"
+                  },
+                  {
+                    "id": 327713564185,
+                    "code": "P535LFB",
+                    "name": "烟台冷运代表营业点",
+                    "parentCode": "P535LYB"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10117324556982,
+        "code": "P021Y",
+        "name": "华东区域公司",
+        "parentCode": "CN32",
+        "children": [
+          {
+            "id": 10209883190714,
+            "code": "P025LYB",
+            "name": "南京DC",
+            "parentCode": "P021Y",
+            "children": [
+              {
+                "id": 21319570521815,
+                "code": "P025LYB",
+                "name": "南京DC",
+                "parentCode": "P025LYB",
+                "children": [
+                  {
+                    "id": 97277986522035,
+                    "code": "P025CDA",
+                    "name": "南京食品中转部",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 48179212593155,
+                    "code": "P025CKA",
+                    "name": "南京食品配送部",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 72186189598375,
+                    "code": "P025CSA",
+                    "name": "南京仓储部",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 93139495580205,
+                    "code": "P025CTA",
+                    "name": "南京食品运输部",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 56173217535075,
+                    "code": "P025LFJ",
+                    "name": "南京天环批发市场营业点",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 72549070588705,
+                    "code": "P025LFK",
+                    "name": "南京众彩批发市场营业点",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 30835288521945,
+                    "code": "P025LFS",
+                    "name": "南京大桥冷运营业点",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 73774621572175,
+                    "code": "P517LFA",
+                    "name": "淮安海隆冷运营业点",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 92997811525295,
+                    "code": "P518LFC",
+                    "name": "江苏连云港冷运营业点",
+                    "parentCode": "P025LYB"
+                  },
+                  {
+                    "id": 56492218596015,
+                    "code": "P555LFA",
+                    "name": "安徽马鞍山冷运代表营业点",
+                    "parentCode": "P025LYB"
+                  }
+                ]
+              },
+              {
+                "id": 92323282592225,
+                "code": "P551LYB",
+                "name": "皖北DC",
+                "parentCode": "P025LYB",
+                "children": [
+                  {
+                    "id": 33721789590125,
+                    "code": "P551CDA",
+                    "name": "合肥肥东食品中转部",
+                    "parentCode": "P551LYB"
+                  },
+                  {
+                    "id": 98537067592265,
+                    "code": "P551CKA",
+                    "name": "合肥肥东食品配送部",
+                    "parentCode": "P551LYB"
+                  },
+                  {
+                    "id": 14211846588175,
+                    "code": "P551CSA",
+                    "name": "合肥肥东仓储部",
+                    "parentCode": "P551LYB"
+                  },
+                  {
+                    "id": 90971898589985,
+                    "code": "P551CTA",
+                    "name": "合肥肥东食品运输部",
+                    "parentCode": "P551LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190717,
+            "code": "P512LYB",
+            "name": "苏锡常DC",
+            "parentCode": "P021Y",
+            "children": [
+              {
+                "id": 81401887564175,
+                "code": "P510LYB",
+                "name": "无锡DC",
+                "parentCode": "P512LYB",
+                "children": [
+                  {
+                    "id": 71348981504105,
+                    "code": "P510CDA",
+                    "name": "无锡江阴新桥食品中转部",
+                    "parentCode": "P510LYB"
+                  },
+                  {
+                    "id": 90788491527985,
+                    "code": "P510CKA",
+                    "name": "无锡江阴新桥食品配送部",
+                    "parentCode": "P510LYB"
+                  },
+                  {
+                    "id": 59374099568665,
+                    "code": "P510CSA",
+                    "name": "无锡江阴新桥食品仓储部",
+                    "parentCode": "P510LYB"
+                  },
+                  {
+                    "id": 98388819574165,
+                    "code": "P510CTA",
+                    "name": "无锡江阴新桥食品运输部",
+                    "parentCode": "P510LYB"
+                  },
+                  {
+                    "id": 11194033592875,
+                    "code": "P510LFF",
+                    "name": "无锡冷运代表营业点",
+                    "parentCode": "P510LYB"
+                  }
+                ]
+              },
+              {
+                "id": 94763170580865,
+                "code": "P512LYB",
+                "name": "苏州DC",
+                "parentCode": "P512LYB",
+                "children": [
+                  {
+                    "id": 77207297500315,
+                    "code": "P510LFA",
+                    "name": "冷运无锡代表营业点",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 3160092537995,
+                    "code": "P512CDA",
+                    "name": "苏锡常张家港中转部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 11788853554515,
+                    "code": "P512CKA",
+                    "name": "苏锡常张家港食品配送部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 90702957599025,
+                    "code": "P512CSA",
+                    "name": "苏锡常张家港仓储部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 94932203524445,
+                    "code": "P512CTA",
+                    "name": "苏锡常张家港食品运输部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 14828819530095,
+                    "code": "P512LFD",
+                    "name": "冷运苏州代表营业点",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 39693848582075,
+                    "code": "P512LFE",
+                    "name": "苏州吴中区冷运代表营业点",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 75013791537665,
+                    "code": "P512LFF",
+                    "name": "苏州常熟冷运代表营业点",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 67690027512725,
+                    "code": "P519LFD",
+                    "name": "冷运常州营业点",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 68599143587965,
+                    "code": "P523CDA",
+                    "name": "泰州食品冷库中转配送部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 28632571572295,
+                    "code": "P523CSA",
+                    "name": "泰州食品冷库仓储部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 94981025504275,
+                    "code": "P523JA",
+                    "name": "泰州集配站",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 88082172511685,
+                    "code": "P523LFA",
+                    "name": "金港冷运营业部",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 41088120520685,
+                    "code": "P523LFB",
+                    "name": "泰州食品冷库",
+                    "parentCode": "P512LYB"
+                  },
+                  {
+                    "id": 8315729533205,
+                    "code": "P523WLA",
+                    "name": "无锡大闸蟹临时中转场",
+                    "parentCode": "P512LYB"
+                  }
+                ]
+              },
+              {
+                "id": 80725913597025,
+                "code": "P519LYB",
+                "name": "常州DC",
+                "parentCode": "P512LYB",
+                "children": [
+                  {
+                    "id": 44687974531215,
+                    "code": "P511LFD",
+                    "name": "常州镇江冷运营业点",
+                    "parentCode": "P519LYB"
+                  },
+                  {
+                    "id": 50819106508485,
+                    "code": "P519CDA",
+                    "name": "常州钟楼食品中转部",
+                    "parentCode": "P519LYB"
+                  },
+                  {
+                    "id": 69283894549885,
+                    "code": "P519CKA",
+                    "name": "常州钟楼食品配送部",
+                    "parentCode": "P519LYB"
+                  },
+                  {
+                    "id": 1823416529005,
+                    "code": "P519CSA",
+                    "name": "常州钟楼仓储部",
+                    "parentCode": "P519LYB"
+                  },
+                  {
+                    "id": 22268617511055,
+                    "code": "P519CTA",
+                    "name": "常州钟楼食品运输部",
+                    "parentCode": "P519LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190720,
+            "code": "P021LYB",
+            "name": "上海DC",
+            "parentCode": "P021Y",
+            "children": [
+              {
+                "id": 31287513581665,
+                "code": "P021LYB",
+                "name": "上海DC",
+                "parentCode": "P021LYB",
+                "children": [
+                  {
+                    "id": 68886018528525,
+                    "code": "P021CDC",
+                    "name": "上海青浦食品中转部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 19052786501735,
+                    "code": "P021CDD",
+                    "name": "上海南翔食品中转部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 81402772597995,
+                    "code": "P021CKC",
+                    "name": "上海青浦食品配送部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 42134106553645,
+                    "code": "P021CKD",
+                    "name": "上海南翔食品配送部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 99278375577115,
+                    "code": "P021CSB",
+                    "name": "苏州张家港食品仓储部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 63443865527195,
+                    "code": "P021CSC",
+                    "name": "上海青浦食品仓储部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 18050919590815,
+                    "code": "P021CSD",
+                    "name": "上海嘉定食品仓储部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 22575172527685,
+                    "code": "P021CTA",
+                    "name": "上海南翔食品运输部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 36807553516805,
+                    "code": "P021CTB",
+                    "name": "上海青浦食品运输部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 10609208512025,
+                    "code": "P021LFA",
+                    "name": "上海嘉定冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 7201147540525,
+                    "code": "P021LFE",
+                    "name": "上海辉展冷运专业市场营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 97279218530255,
+                    "code": "P021LFG",
+                    "name": "上海金园冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 88278128599585,
+                    "code": "P021LFN",
+                    "name": "上海杨浦冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 6718645521105,
+                    "code": "P021LFP",
+                    "name": "上海奉贤冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 42520129578805,
+                    "code": "P021LFQ",
+                    "name": "上海浦东新冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 20982143582575,
+                    "code": "P021LFS",
+                    "name": "上海浦东冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 34921060577035,
+                    "code": "P021LFT",
+                    "name": "上海闵行冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 65845309520905,
+                    "code": "P021LFU",
+                    "name": "上海华新冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 77512788531995,
+                    "code": "P021LFZ",
+                    "name": "上海宝山冷运营业点",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 68236937532335,
+                    "code": "P513CTA",
+                    "name": "南通崇川食品运输部",
+                    "parentCode": "P021LYB"
+                  },
+                  {
+                    "id": 48299225597115,
+                    "code": "P513LFC",
+                    "name": "江苏南通冷运营业点",
+                    "parentCode": "P021LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190721,
+            "code": "P571LYB",
+            "name": "杭州DC",
+            "parentCode": "P021Y",
+            "children": [
+              {
+                "id": 82771897508875,
+                "code": "P571LYB",
+                "name": "杭州DC",
+                "parentCode": "P571LYB",
+                "children": [
+                  {
+                    "id": 12022999582185,
+                    "code": "P571CDA",
+                    "name": "杭州萧山食品中转部",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 387927576275,
+                    "code": "P571CKA",
+                    "name": "杭州萧山食品配送部",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 25897280517605,
+                    "code": "P571CSA",
+                    "name": "杭州萧山仓储部",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 27202575516125,
+                    "code": "P571CSD",
+                    "name": "杭州全家项目仓储部",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 42848032532655,
+                    "code": "P571CTA",
+                    "name": "杭州萧山食品运输部",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 90882399522165,
+                    "code": "P571LFB",
+                    "name": "杭州勾庄冷运代表营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 30088411506035,
+                    "code": "P571LFC",
+                    "name": "杭州全家项目冷运代表营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 12430869539745,
+                    "code": "P571LFD",
+                    "name": "杭州江干冷运营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 97771582564505,
+                    "code": "P571LFE",
+                    "name": "杭州新农都专业市场营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 52749437544015,
+                    "code": "P571LFF",
+                    "name": "杭州近江农品汇市场冷运营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 29681311599535,
+                    "code": "P571LFH",
+                    "name": "杭州勾庄农贸市场营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 21900880561215,
+                    "code": "P572LFB",
+                    "name": "浙江湖州冷运营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 75247712586055,
+                    "code": "P573LFB",
+                    "name": "浙江嘉兴冷运营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 1068779512985,
+                    "code": "P575LFB",
+                    "name": "绍兴冷运代表营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 29663778511885,
+                    "code": "P575LFC",
+                    "name": "诸暨新农都市场冷运营业点",
+                    "parentCode": "P571LYB"
+                  },
+                  {
+                    "id": 18919723536995,
+                    "code": "P579LFB",
+                    "name": "浙江金华冷运营业点",
+                    "parentCode": "P571LYB"
+                  }
+                ]
+              },
+              {
+                "id": 26184102517115,
+                "code": "P574LYB",
+                "name": "宁波DC",
+                "parentCode": "P571LYB",
+                "children": [
+                  {
+                    "id": 51190771584115,
+                    "code": "P574CDA",
+                    "name": "宁波北仑食品中转部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 1758555571775,
+                    "code": "P574CKA",
+                    "name": "宁波北仑食品配送部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 86415218542615,
+                    "code": "P574CSA",
+                    "name": "宁波北仑仓储部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 80718671565395,
+                    "code": "P574CSB",
+                    "name": "宁波麦萌食品冷仓储部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 82291474518265,
+                    "code": "P574LFB",
+                    "name": "宁波象山冷运代表营业点",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 9365212582985,
+                    "code": "P574LFC",
+                    "name": "宁波北仑食品运输部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 52681724535595,
+                    "code": "P576LFA",
+                    "name": "浙江台州冷运营业点",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 77222121596215,
+                    "code": "P577CSA",
+                    "name": "温州龙湾仓储部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 95069910525815,
+                    "code": "P577LFB",
+                    "name": "浙江温州冷运营业点",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 68084887553085,
+                    "code": "P577LFC",
+                    "name": "温州现代冷链专业市场营业点",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 18237499527045,
+                    "code": "P580CSB",
+                    "name": "舟山定海冷运仓储部",
+                    "parentCode": "P574LYB"
+                  },
+                  {
+                    "id": 64219232586135,
+                    "code": "P580LFB",
+                    "name": "舟山冷运代表营业点",
+                    "parentCode": "P574LYB"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10117324556985,
+        "code": "P020Y",
+        "name": "华南区域公司",
+        "parentCode": "CN32",
+        "children": [
+          {
+            "id": 10209883190699,
+            "code": "P757LYB",
+            "name": "佛山DC",
+            "parentCode": "P020Y",
+            "children": [
+              {
+                "id": 7001959597555,
+                "code": "P750LYB",
+                "name": "五邑DC",
+                "parentCode": "P757LYB",
+                "children": [
+                  {
+                    "id": 40151081500125,
+                    "code": "P662LFA",
+                    "name": "阳江冷运代表营业点",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 39860564563005,
+                    "code": "P668LFA",
+                    "name": "茂名冷运代表营业点",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 92922738576765,
+                    "code": "P750LFA",
+                    "name": "江门冷运代表营业点",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 6419476570875,
+                    "code": "P759CDA",
+                    "name": "湛江食品中转部",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 31942671527775,
+                    "code": "P759CKA",
+                    "name": "湛江食品配送部",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 74327787592175,
+                    "code": "P759CSA",
+                    "name": "湛江食品仓储部",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 60184845574275,
+                    "code": "P759CTA",
+                    "name": "湛江食品运输部",
+                    "parentCode": "P750LYB"
+                  },
+                  {
+                    "id": 86005797547405,
+                    "code": "P759LFA",
+                    "name": "湛江霞山宝满冷运营业点",
+                    "parentCode": "P750LYB"
+                  }
+                ]
+              },
+              {
+                "id": 21985299501505,
+                "code": "P757LYB",
+                "name": "佛山DC",
+                "parentCode": "P757LYB",
+                "children": [
+                  {
+                    "id": 4964232552095,
+                    "code": "P756LFA",
+                    "name": "珠海霞山路冷运营业点",
+                    "parentCode": "P757LYB"
+                  },
+                  {
+                    "id": 8298626582715,
+                    "code": "P757CDB",
+                    "name": "佛山食品中转部",
+                    "parentCode": "P757LYB"
+                  },
+                  {
+                    "id": 19785177588945,
+                    "code": "P757CKB",
+                    "name": "佛山食品配送部",
+                    "parentCode": "P757LYB"
+                  },
+                  {
+                    "id": 11082820570165,
+                    "code": "P757CSB",
+                    "name": "佛山食品仓储部",
+                    "parentCode": "P757LYB"
+                  },
+                  {
+                    "id": 23280121563275,
+                    "code": "P757LFA",
+                    "name": "佛山冷运代表营业点",
+                    "parentCode": "P757LYB"
+                  },
+                  {
+                    "id": 94198083505125,
+                    "code": "P760LFA",
+                    "name": "中山松苑路冷运营业点",
+                    "parentCode": "P757LYB"
+                  }
+                ]
+              },
+              {
+                "id": 61157828537275,
+                "code": "P771LYB",
+                "name": "广西DC",
+                "parentCode": "P757LYB",
+                "children": [
+                  {
+                    "id": 311932513125,
+                    "code": "P771CTA",
+                    "name": "南宁食品运输部",
+                    "parentCode": "P771LYB"
+                  },
+                  {
+                    "id": 2072927520895,
+                    "code": "P771LFA",
+                    "name": "南宁冷运代表营业点",
+                    "parentCode": "P771LYB"
+                  },
+                  {
+                    "id": 29498169574085,
+                    "code": "P771LFB",
+                    "name": "凭祥冷运代表营业点",
+                    "parentCode": "P771LYB"
+                  },
+                  {
+                    "id": 88213830592005,
+                    "code": "P777LFA",
+                    "name": "钦州冷运代表营业点",
+                    "parentCode": "P771LYB"
+                  },
+                  {
+                    "id": 57096903515985,
+                    "code": "P779LFA",
+                    "name": "北海冷运代表营业点",
+                    "parentCode": "P771LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190703,
+            "code": "P020LYB",
+            "name": "广州DC",
+            "parentCode": "P020Y",
+            "children": [
+              {
+                "id": 90308039538285,
+                "code": "P020LYB",
+                "name": "广州DC",
+                "parentCode": "P020LYB",
+                "children": [
+                  {
+                    "id": 11772649580115,
+                    "code": "P020CDD",
+                    "name": "广州RDC食品中转部",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 28482512522875,
+                    "code": "P020CKD",
+                    "name": "广州RDC食品配送部",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 762317580135,
+                    "code": "P020CSD",
+                    "name": "广州RDC食品仓储部",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 1820376515865,
+                    "code": "P020CTA",
+                    "name": "广州食品运输部",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 91982170518365,
+                    "code": "P020CTB",
+                    "name": "广州新塘食品运输部",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 99744021524115,
+                    "code": "P020LFC",
+                    "name": "广州番禺冷运营业点",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 87919608504945,
+                    "code": "P020LFD",
+                    "name": "广州汇益冷运营业点",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 97736077517175,
+                    "code": "P020LFH",
+                    "name": "广州江南市场冷运营业点",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 10297810529325,
+                    "code": "P020LFI",
+                    "name": "广州白云冷运营业点",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 16718744540015,
+                    "code": "P020LFW",
+                    "name": "广州黄埔开创大道冷运营业点",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 21077027573475,
+                    "code": "P663LFA",
+                    "name": "揭阳冷运营业点",
+                    "parentCode": "P020LYB"
+                  },
+                  {
+                    "id": 32858561558505,
+                    "code": "P751LFA",
+                    "name": "韶关冷运代表营业点",
+                    "parentCode": "P020LYB"
+                  }
+                ]
+              },
+              {
+                "id": 61481237571485,
+                "code": "P791LYB",
+                "name": "赣北DC",
+                "parentCode": "P020LYB",
+                "children": [
+                  {
+                    "id": 95296888537955,
+                    "code": "P791CDA",
+                    "name": "南昌食品中转部",
+                    "parentCode": "P791LYB"
+                  },
+                  {
+                    "id": 60926966560195,
+                    "code": "P791CKA",
+                    "name": "南昌配送部",
+                    "parentCode": "P791LYB"
+                  },
+                  {
+                    "id": 86327568591095,
+                    "code": "P791CSA",
+                    "name": "南昌仓储部",
+                    "parentCode": "P791LYB"
+                  },
+                  {
+                    "id": 1911521589975,
+                    "code": "P791CTA",
+                    "name": "南昌食品运输部",
+                    "parentCode": "P791LYB"
+                  },
+                  {
+                    "id": 85987728517025,
+                    "code": "P791LFC",
+                    "name": "南昌冷运代表营业点",
+                    "parentCode": "P791LYB"
+                  },
+                  {
+                    "id": 98701792531815,
+                    "code": "P797LFA",
+                    "name": "赣州红旗大道冷运营业点",
+                    "parentCode": "P791LYB"
+                  }
+                ]
+              },
+              {
+                "id": 15672168538905,
+                "code": "P898LYB",
+                "name": "海南DC",
+                "parentCode": "P020LYB",
+                "children": [
+                  {
+                    "id": 36258176510215,
+                    "code": "P8981LFB",
+                    "name": "三亚冷运代表营业点",
+                    "parentCode": "P898LYB"
+                  },
+                  {
+                    "id": 5035719572735,
+                    "code": "P898CDA",
+                    "name": "海口食品中转部",
+                    "parentCode": "P898LYB"
+                  },
+                  {
+                    "id": 78257607588985,
+                    "code": "P898CKA",
+                    "name": "海口配送部",
+                    "parentCode": "P898LYB"
+                  },
+                  {
+                    "id": 98547779526865,
+                    "code": "P898CSA",
+                    "name": "海口仓储部",
+                    "parentCode": "P898LYB"
+                  },
+                  {
+                    "id": 41975199522035,
+                    "code": "P898CTA",
+                    "name": "海口食品运输部",
+                    "parentCode": "P898LYB"
+                  },
+                  {
+                    "id": 92519831518455,
+                    "code": "P898LFA",
+                    "name": "海口罗牛山专业市场营业点",
+                    "parentCode": "P898LYB"
+                  },
+                  {
+                    "id": 99276827576385,
+                    "code": "P898LFB",
+                    "name": "海口冷运代表营业点",
+                    "parentCode": "P898LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190705,
+            "code": "P769LYB",
+            "name": "深莞惠DC",
+            "parentCode": "P020Y",
+            "children": [
+              {
+                "id": 31133183522035,
+                "code": "P752LYB",
+                "name": "惠州DC",
+                "parentCode": "P769LYB",
+                "children": [
+                  {
+                    "id": 50247043528215,
+                    "code": "P752CDA",
+                    "name": "惠州惠城食品中转部",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 29902811590795,
+                    "code": "P752CKA",
+                    "name": "惠州惠城食品配送部",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 88975179514845,
+                    "code": "P752CSA",
+                    "name": "惠州惠城仓储部",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 15188871571125,
+                    "code": "P752CTA",
+                    "name": "惠州惠城食品运输部",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 85669113578325,
+                    "code": "P752LFA",
+                    "name": "惠州冷运营业点",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 33800203596295,
+                    "code": "P752LFB",
+                    "name": "惠州港口镇专业市场营业点",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 80189846572785,
+                    "code": "P753LFA",
+                    "name": "梅州梅江冷运营业点",
+                    "parentCode": "P752LYB"
+                  },
+                  {
+                    "id": 39787328530115,
+                    "code": "P762LFA",
+                    "name": "河源源城冷运营业点",
+                    "parentCode": "P752LYB"
+                  }
+                ]
+              },
+              {
+                "id": 67179277597105,
+                "code": "P755LYB",
+                "name": "深圳DC",
+                "parentCode": "P769LYB",
+                "children": [
+                  {
+                    "id": 51398150510375,
+                    "code": "P754LFB",
+                    "name": "汕头天濠冷库冷运营业点",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 11772714539705,
+                    "code": "P755CDA",
+                    "name": "深圳清湖食品中转部",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 87801008594045,
+                    "code": "P755CKA",
+                    "name": "深圳清湖食品配送部",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 94215091507815,
+                    "code": "P755CSA",
+                    "name": "深圳清湖仓储部",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 22008857566805,
+                    "code": "P755CTA",
+                    "name": "深圳清湖食品运输部",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 29158136578555,
+                    "code": "P755LFD",
+                    "name": "深圳前海冷运营业点",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 72128208520925,
+                    "code": "P755LFE",
+                    "name": "宝安冷运代表营业点",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 75617900560765,
+                    "code": "P755LFF",
+                    "name": "深圳龙岗冷运营业点",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 86325097574135,
+                    "code": "P755LFH",
+                    "name": "深圳南山冷运营业点",
+                    "parentCode": "P755LYB"
+                  },
+                  {
+                    "id": 15273939572305,
+                    "code": "P755LFK",
+                    "name": "深圳前海冷运营业点",
+                    "parentCode": "P755LYB"
+                  }
+                ]
+              },
+              {
+                "id": 81548198507065,
+                "code": "P769LYB",
+                "name": "东莞DC",
+                "parentCode": "P769LYB",
+                "children": [
+                  {
+                    "id": 80279270575025,
+                    "code": "P754CDB",
+                    "name": "汕头冷运食品中转部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 96949197595205,
+                    "code": "P754CSB",
+                    "name": "汕头冷运仓储部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 97278899550855,
+                    "code": "P769CDA",
+                    "name": "东莞东城食品中转部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 60987066590275,
+                    "code": "P769CDB",
+                    "name": "深莞惠食品中转部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 219923563855,
+                    "code": "P769CKA",
+                    "name": "东莞东城食品配送部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 17595796559245,
+                    "code": "P769CKB",
+                    "name": "深莞惠食品配送部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 81397902572295,
+                    "code": "P769CSA",
+                    "name": "东莞东城仓储部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 40824673504275,
+                    "code": "P769CSB",
+                    "name": "深莞惠食品仓储部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 11531889569225,
+                    "code": "P769CTA",
+                    "name": "东莞东城食品运输部",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 87802893521805,
+                    "code": "P769LFB",
+                    "name": "东莞寮步冷运代表营业点",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 38476003518295,
+                    "code": "P769LFC",
+                    "name": "东莞凤岗冷运营业点",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 28028245532945,
+                    "code": "P769LFD",
+                    "name": "深莞惠营业点",
+                    "parentCode": "P769LYB"
+                  },
+                  {
+                    "id": 17204941548295,
+                    "code": "P769LFE",
+                    "name": "信立冷运营业点",
+                    "parentCode": "P769LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190710,
+            "code": "P592LYB",
+            "name": "厦门DC",
+            "parentCode": "P020Y",
+            "children": [
+              {
+                "id": 45360118573825,
+                "code": "P591LYB",
+                "name": "福州DC",
+                "parentCode": "P592LYB",
+                "children": [
+                  {
+                    "id": 76334789517565,
+                    "code": "P591CDA",
+                    "name": "福州食品中转部",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 20982070548915,
+                    "code": "P591CKA",
+                    "name": "福州食品配送部",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 83478192590115,
+                    "code": "P591CSA",
+                    "name": "福州食品仓储部",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 68090799562925,
+                    "code": "P591CTA",
+                    "name": "福州闽侯食品运输部",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 21980621597075,
+                    "code": "P591LFB",
+                    "name": "福州名成水产市场营业点",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 7009911511785,
+                    "code": "P591LFC",
+                    "name": "福州平潭冷运营业点",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 46791932508185,
+                    "code": "P593LFA",
+                    "name": "宁德冷运代表营业点",
+                    "parentCode": "P591LYB"
+                  },
+                  {
+                    "id": 29249307599925,
+                    "code": "P791LFD",
+                    "name": "九江云仓冷运营业点",
+                    "parentCode": "P591LYB"
+                  }
+                ]
+              },
+              {
+                "id": 18086522552675,
+                "code": "P592LYB",
+                "name": "厦门DC",
+                "parentCode": "P592LYB",
+                "children": [
+                  {
+                    "id": 9040060518195,
+                    "code": "P592CDA",
+                    "name": "厦门同安食品中转部",
+                    "parentCode": "P592LYB"
+                  },
+                  {
+                    "id": 21949360506005,
+                    "code": "P592CKA",
+                    "name": "厦门同安食品配送部",
+                    "parentCode": "P592LYB"
+                  },
+                  {
+                    "id": 92350194592115,
+                    "code": "P592CSA",
+                    "name": "厦门同安仓储部",
+                    "parentCode": "P592LYB"
+                  },
+                  {
+                    "id": 3890703522575,
+                    "code": "P592CTA",
+                    "name": "厦门同安食品运输部",
+                    "parentCode": "P592LYB"
+                  },
+                  {
+                    "id": 7174016582385,
+                    "code": "P592LFB",
+                    "name": "厦门冷运代表营业点",
+                    "parentCode": "P592LYB"
+                  },
+                  {
+                    "id": 9567740547905,
+                    "code": "P596LFA",
+                    "name": "漳州冷运代表营业点",
+                    "parentCode": "P592LYB"
+                  },
+                  {
+                    "id": 97084012527955,
+                    "code": "P596LFB",
+                    "name": "漳州龙海冷运营业点",
+                    "parentCode": "P592LYB"
+                  }
+                ]
+              },
+              {
+                "id": 1721438524825,
+                "code": "P595LYB",
+                "name": "泉州DC",
+                "parentCode": "P592LYB",
+                "children": [
+                  {
+                    "id": 20583919592465,
+                    "code": "P594LFA",
+                    "name": "莆田冷运代表营业点",
+                    "parentCode": "P595LYB"
+                  },
+                  {
+                    "id": 38814574587315,
+                    "code": "P595CDB",
+                    "name": "泉州食品中转部",
+                    "parentCode": "P595LYB"
+                  },
+                  {
+                    "id": 43520538529185,
+                    "code": "P595CKB",
+                    "name": "泉州食品配送部",
+                    "parentCode": "P595LYB"
+                  },
+                  {
+                    "id": 19164038506215,
+                    "code": "P595CSB",
+                    "name": "泉州食品仓储部",
+                    "parentCode": "P595LYB"
+                  },
+                  {
+                    "id": 26876434599725,
+                    "code": "P595LFA",
+                    "name": "泉州冷运代表营业点",
+                    "parentCode": "P595LYB"
+                  },
+                  {
+                    "id": 20800162596545,
+                    "code": "P595LFB",
+                    "name": "泉州泉港冷运营业点",
+                    "parentCode": "P595LYB"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10119648635126,
+        "code": "P027Y",
+        "name": "中西区域公司",
+        "parentCode": "CN32",
+        "children": [
+          {
+            "id": 10209883190730,
+            "code": "P027LYB",
+            "name": "武汉DC",
+            "parentCode": "P027Y",
+            "children": [
+              {
+                "id": 73201114529495,
+                "code": "P027LYB",
+                "name": "鄂东DC",
+                "parentCode": "P027LYB",
+                "children": [
+                  {
+                    "id": 11578039511905,
+                    "code": "P027CDA",
+                    "name": "武汉吴家山食品中转部",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 67299781568815,
+                    "code": "P027CKA",
+                    "name": "武汉吴家山食品配送部",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 87261600563935,
+                    "code": "P027CSA",
+                    "name": "武汉吴家山仓储部",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 55012279548015,
+                    "code": "P027CTA",
+                    "name": "武汉吴家山食品运输部",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 1499499571975,
+                    "code": "P027LFB",
+                    "name": "白沙洲冷运营业点",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 23928925529405,
+                    "code": "P027LFD",
+                    "name": "武汉吴家山冷运营业点",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 86040622528125,
+                    "code": "P027LFW",
+                    "name": "武汉东西湖冷运营业代表点",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 73930282577845,
+                    "code": "P713LFB",
+                    "name": "黄冈冷运代表营业点",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 30321977509565,
+                    "code": "P717LFB",
+                    "name": "宜昌冷运代表营业点",
+                    "parentCode": "P027LYB"
+                  },
+                  {
+                    "id": 74710118554825,
+                    "code": "P722LFB",
+                    "name": "随州广水冷运营业点",
+                    "parentCode": "P027LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190732,
+            "code": "P731LYB",
+            "name": "长沙DC",
+            "parentCode": "P027Y",
+            "children": [
+              {
+                "id": 10796730576715,
+                "code": "P731LYB",
+                "name": "湘北DC",
+                "parentCode": "P731LYB",
+                "children": [
+                  {
+                    "id": 19779094522755,
+                    "code": "P7311CDA",
+                    "name": "长沙雨花食品中转部",
+                    "parentCode": "P731LYB"
+                  },
+                  {
+                    "id": 30044034510015,
+                    "code": "P7311CKA",
+                    "name": "长沙雨花食品配送部",
+                    "parentCode": "P731LYB"
+                  },
+                  {
+                    "id": 67112139501095,
+                    "code": "P7311CSA",
+                    "name": "长沙雨花食品仓储部",
+                    "parentCode": "P731LYB"
+                  },
+                  {
+                    "id": 87500068578255,
+                    "code": "P7311CTA",
+                    "name": "长沙安沙食品运输部",
+                    "parentCode": "P731LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190735,
+            "code": "P371LYB",
+            "name": "郑州DC",
+            "parentCode": "P027Y",
+            "children": [
+              {
+                "id": 79215311581065,
+                "code": "P371LYB",
+                "name": "豫北DC",
+                "parentCode": "P371LYB",
+                "children": [
+                  {
+                    "id": 27619790514715,
+                    "code": "P370LFA",
+                    "name": "冷运商丘营业点",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 20459027568205,
+                    "code": "P371CDA",
+                    "name": "郑州食品中转部",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 88791581530785,
+                    "code": "P371CKA",
+                    "name": "郑州食品配送部",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 27579092524045,
+                    "code": "P371CSA",
+                    "name": "郑州仓储部",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 13809473503225,
+                    "code": "P371CTA",
+                    "name": "郑州食品运输部",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 27845016507135,
+                    "code": "P371LFB",
+                    "name": "郑州四季市场冷运营业点",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 92248207584805,
+                    "code": "P371LFC",
+                    "name": "郑州信基专业市场营业点",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 39365601591595,
+                    "code": "P371LFD",
+                    "name": "郑州江山冷库营业点",
+                    "parentCode": "P371LYB"
+                  },
+                  {
+                    "id": 29594941572015,
+                    "code": "P395LFB",
+                    "name": "漯河召陵冷运营业点",
+                    "parentCode": "P371LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190736,
+            "code": "P029LYB",
+            "name": "西安DC",
+            "parentCode": "P027Y",
+            "children": [
+              {
+                "id": 84528999564015,
+                "code": "P029LYB",
+                "name": "陕西DC",
+                "parentCode": "P029LYB",
+                "children": [
+                  {
+                    "id": 71912815509225,
+                    "code": "P029CDA",
+                    "name": "西安空港食品中转部",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 76908958590615,
+                    "code": "P029CKA",
+                    "name": "西安空港食品配送部",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 95148397574055,
+                    "code": "P029CSA",
+                    "name": "西安RDC空港仓储部",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 87712357519675,
+                    "code": "P029CTA",
+                    "name": "西安空港食品运输部",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 2002762575885,
+                    "code": "P029LFC",
+                    "name": "西安未央冷运代表营业点",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 76989504528285,
+                    "code": "P029LFE",
+                    "name": "西安蓝田冷运营业点",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 95272840562815,
+                    "code": "P029LFF",
+                    "name": "西安雨润冷运营业点",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 8500188528705,
+                    "code": "P913CSA",
+                    "name": "渭南虚拟项目仓储部",
+                    "parentCode": "P029LYB"
+                  },
+                  {
+                    "id": 72437107583255,
+                    "code": "P953LFA",
+                    "name": "盐池冷运营业点",
+                    "parentCode": "P029LYB"
+                  }
+                ]
+              },
+              {
+                "id": 99947769568815,
+                "code": "P931LYB",
+                "name": "甘肃DC",
+                "parentCode": "P029LYB",
+                "children": [
+                  {
+                    "id": 70281924572285,
+                    "code": "P931CDB",
+                    "name": "兰州榆中食品中转部",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 37297815570615,
+                    "code": "P931CKB",
+                    "name": "兰州榆中食品配送部",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 47768799502205,
+                    "code": "P931CSB",
+                    "name": "兰州榆中食品仓储部",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 9899539539195,
+                    "code": "P931LFB",
+                    "name": "兰州冷运代表营业点",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 79911099509805,
+                    "code": "P971LFA",
+                    "name": "西宁冷运营业点",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 82412755531875,
+                    "code": "P971LFB",
+                    "name": "西宁融通冷运营业点",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 97680125595915,
+                    "code": "P979CDA",
+                    "name": "青海格尔木食品中转场",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 75134512582095,
+                    "code": "P979CKA",
+                    "name": "青海格尔木食品配送部",
+                    "parentCode": "P931LYB"
+                  },
+                  {
+                    "id": 93558254503005,
+                    "code": "P979CSA",
+                    "name": "青海格尔木食品仓储部",
+                    "parentCode": "P931LYB"
+                  }
+                ]
+              },
+              {
+                "id": 1758802532255,
+                "code": "P991LYB",
+                "name": "新疆DC",
+                "parentCode": "P029LYB",
+                "children": [
+                  {
+                    "id": 50266237501035,
+                    "code": "P991LFK",
+                    "name": "乌鲁木齐冷运营业点",
+                    "parentCode": "P991LYB"
+                  },
+                  {
+                    "id": 90197718530715,
+                    "code": "P998CDA",
+                    "name": "新疆叶城食品中转部",
+                    "parentCode": "P991LYB"
+                  },
+                  {
+                    "id": 7905748574725,
+                    "code": "P998CKA",
+                    "name": "新疆叶城食品配送部",
+                    "parentCode": "P991LYB"
+                  },
+                  {
+                    "id": 62213565529765,
+                    "code": "P998CSA",
+                    "name": "新疆叶城食品仓储部",
+                    "parentCode": "P991LYB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 10209883190740,
+            "code": "P028LYB",
+            "name": "成都DC",
+            "parentCode": "P027Y",
+            "children": [
+              {
+                "id": 17853811529185,
+                "code": "P023LYB",
+                "name": "重庆DC",
+                "parentCode": "P028LYB",
+                "children": [
+                  {
+                    "id": 4819222589905,
+                    "code": "P023CDA",
+                    "name": "重庆江北食品中转部",
+                    "parentCode": "P023LYB"
+                  },
+                  {
+                    "id": 38640074507415,
+                    "code": "P023CKA",
+                    "name": "重庆江北食品配送部",
+                    "parentCode": "P023LYB"
+                  },
+                  {
+                    "id": 48481707565125,
+                    "code": "P023CSA",
+                    "name": "重庆江北仓储部",
+                    "parentCode": "P023LYB"
+                  },
+                  {
+                    "id": 88427926572675,
+                    "code": "P023CTA",
+                    "name": "重庆江北食品运输部",
+                    "parentCode": "P023LYB"
+                  },
+                  {
+                    "id": 20167070529175,
+                    "code": "P023LFA",
+                    "name": "重庆明品福专业市场营业点",
+                    "parentCode": "P023LYB"
+                  },
+                  {
+                    "id": 82448415511865,
+                    "code": "P023LFC",
+                    "name": "重庆三亚湾冷运营业点",
+                    "parentCode": "P023LYB"
+                  },
+                  {
+                    "id": 1074322529385,
+                    "code": "P851LFA",
+                    "name": "贵阳冷运代表营业点",
+                    "parentCode": "P023LYB"
+                  }
+                ]
+              },
+              {
+                "id": 711061507505,
+                "code": "P028LYB",
+                "name": "四川DC",
+                "parentCode": "P028LYB",
+                "children": [
+                  {
+                    "id": 12181917506275,
+                    "code": "P028CDB",
+                    "name": "成都双流食品中转部",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 46600167538875,
+                    "code": "P028CDC",
+                    "name": "成都新津食品中转部",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 43191226517825,
+                    "code": "P028CKB",
+                    "name": "成都双流食品配送部",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 19040893592255,
+                    "code": "P028CSB",
+                    "name": "成都双流仓储部",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 66372000594975,
+                    "code": "P028CSC",
+                    "name": "成都新津食品仓储部",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 29689725559875,
+                    "code": "P028CTA",
+                    "name": "成都双流食品运输部",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 4003907598625,
+                    "code": "P028LFC",
+                    "name": "成都郫都冷运代表营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 85765047500745,
+                    "code": "P028LFD",
+                    "name": "成都双流冷运代表营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 78110895501075,
+                    "code": "P028LFG",
+                    "name": "成都青白江银犁冷运营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 52072828525715,
+                    "code": "P835LFA",
+                    "name": "雅安冷运代表营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 59561912506005,
+                    "code": "P836LFA",
+                    "name": "甘孜州炉城镇营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 27290901549025,
+                    "code": "P836LFB",
+                    "name": "甘孜雅江冷运营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 82943087576495,
+                    "code": "P837LFA",
+                    "name": "汶川冷运营业点",
+                    "parentCode": "P028LYB"
+                  },
+                  {
+                    "id": 59892878552795,
+                    "code": "P837LFB",
+                    "name": "理县冷运营业点",
+                    "parentCode": "P028LYB"
+                  }
+                ]
+              },
+              {
+                "id": 38376932543525,
+                "code": "P871LYB",
+                "name": "云南DC",
+                "parentCode": "P028LYB",
+                "children": [
+                  {
+                    "id": 7781562548765,
+                    "code": "P871CDB",
+                    "name": "昆明呈贡食品中转部",
+                    "parentCode": "P871LYB"
+                  },
+                  {
+                    "id": 79370093548895,
+                    "code": "P871CKB",
+                    "name": "昆明呈贡食品配送部",
+                    "parentCode": "P871LYB"
+                  },
+                  {
+                    "id": 13407757557775,
+                    "code": "P871CSB",
+                    "name": "昆明呈贡食品仓储部",
+                    "parentCode": "P871LYB"
+                  },
+                  {
+                    "id": 84742032597205,
+                    "code": "P871LFA",
+                    "name": "昆明斗南鲜花营业点",
+                    "parentCode": "P871LYB"
+                  },
+                  {
+                    "id": 41968709549175,
+                    "code": "P887LFC",
+                    "name": "香格里拉市野生菌（松茸）交易市场营业点",
+                    "parentCode": "P871LYB"
+                  },
+                  {
+                    "id": 5711310599525,
+                    "code": "P888LFB",
+                    "name": "丽江市古城区束河路营业点",
+                    "parentCode": "P871LYB"
+                  }
+                ]
+              },
+              {
+                "id": 98232378593185,
+                "code": "P891LYB",
+                "name": "西藏DC",
+                "parentCode": "P028LYB",
+                "children": [
+                  {
+                    "id": 52900680591895,
+                    "code": "P891CDA",
+                    "name": "拉萨推龙德庆食品中转部",
+                    "parentCode": "P891LYB"
+                  },
+                  {
+                    "id": 70282075584575,
+                    "code": "P891CKA",
+                    "name": "拉萨推龙德庆食品配送部",
+                    "parentCode": "P891LYB"
+                  },
+                  {
+                    "id": 20247890530595,
+                    "code": "P891CSA",
+                    "name": "拉萨推龙德庆食品仓储部",
+                    "parentCode": "P891LYB"
+                  },
+                  {
+                    "id": 7007369584785,
+                    "code": "P891LFA",
+                    "name": "拉萨市当雄县公塘乡营业点",
+                    "parentCode": "P891LYB"
+                  },
+                  {
+                    "id": 47151514582515,
+                    "code": "P892LFA",
+                    "name": "日喀则食品营业点",
+                    "parentCode": "P891LYB"
+                  },
+                  {
+                    "id": 31701190516835,
+                    "code": "P897LFA",
+                    "name": "西藏日土食品营业点",
+                    "parentCode": "P891LYB"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

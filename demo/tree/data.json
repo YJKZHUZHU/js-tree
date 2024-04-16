@@ -1,0 +1,2116 @@
+{
+  "code": "0",
+  "data": [
+      {
+          "id": 10050705742361,
+          "code": "020DCE",
+          "name": "广州宝湾仓",
+          "parentCode": "SC769Y",
+          "deleteFlg": 0,
+          "children": []
+      },
+      {
+          "id": 10155538218773,
+          "code": "CN32",
+          "name": "冷运事业部",
+          "parentCode": "001",
+          "deleteFlg": 0,
+          "children": [
+              {
+                  "id": 10209883190685,
+                  "code": "P451LYB",
+                  "name": "黑龙江区域公司",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0
+              },
+              {
+                  "id": 10209883190687,
+                  "code": "P024LYB",
+                  "name": "沈阳区域公司",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10119656565867,
+                          "code": "P451CSA",
+                          "name": "哈尔滨平房仓储部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10154878108918,
+                          "code": "P024CSB",
+                          "name": "沈阳于洪仓储部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10154878108920,
+                          "code": "P024CDB",
+                          "name": "沈阳于洪中转部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306967,
+                          "code": "P024CKB",
+                          "name": "沈阳冷运大件部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926143,
+                          "code": "P431LFB",
+                          "name": "长春九台营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492934,
+                          "code": "P024CTA",
+                          "name": "沈阳浑南运输部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492939,
+                          "code": "P451CTA",
+                          "name": "哈尔滨呼兰食品运输部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025908,
+                          "code": "P024LFC",
+                          "name": "沈阳铁西专业市场营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486950,
+                          "code": "P470LFC",
+                          "name": "呼伦贝尔市鄂温克族自治旗营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486951,
+                          "code": "P024LFD",
+                          "name": "沈阳大东专线营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486952,
+                          "code": "P451LFD",
+                          "name": "哈尔滨平房营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209989476322,
+                          "code": "P470CSA",
+                          "name": "呼伦贝尔鄂温克仓储部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997055170,
+                          "code": "P451LFI",
+                          "name": "哈尔滨平房专线项目营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997517860,
+                          "code": "P433LFD",
+                          "name": "延边延吉营业部",
+                          "parentCode": "P024LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190688,
+                  "code": "P411LYB",
+                  "name": "大连营业部",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10133857286683,
+                          "code": "P411CSA",
+                          "name": "大连甘井子仓储部",
+                          "parentCode": "P411LYB",
+                          "deleteFlg": 0,
+                          "children": [
+                              {
+                                  "id": 10209997667106,
+                                  "code": "P411CSZ",
+                                  "name": "我在测试仓储部",
+                                  "parentCode": "P411CSA",
+                                  "deleteFlg": 0
+                              },
+                              {
+                                  "id": 10209997667107,
+                                  "code": "P411CSP",
+                                  "name": "11测试仓储部",
+                                  "parentCode": "P411CSA",
+                                  "deleteFlg": 0
+                              }
+                          ]
+                      },
+                      {
+                          "id": 10209973492937,
+                          "code": "P411CTA",
+                          "name": "大连甘井子运输部",
+                          "parentCode": "P411LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025909,
+                          "code": "P411LFB",
+                          "name": "大连甘井子营业部",
+                          "parentCode": "P411LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190689,
+                  "code": "P010LYB",
+                  "name": "北京区域公司",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10117330403635,
+                          "code": "P010CDB",
+                          "name": "北京通州中转部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10117330403636,
+                          "code": "P010CSB",
+                          "name": "北京通州仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10165684195077,
+                          "code": "P010LFA",
+                          "name": "北京通州营业部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10165684195081,
+                          "code": "P010LFB",
+                          "name": "北京朝阳营业部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10195206987930,
+                          "code": "P512CDJ",
+                          "name": "苏州冷运食品中转部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10195206987932,
+                          "code": "P512CKF",
+                          "name": "冷云事业部配送部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10195220508030,
+                          "code": "P010LFX",
+                          "name": "长白冷运业务部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306838,
+                          "code": "P010CKB",
+                          "name": "北京冷运大件部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209967226045,
+                          "code": "P010LFW",
+                          "name": "北京通州马驹桥营业部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492932,
+                          "code": "P010CTA",
+                          "name": "北京通州运输部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209983219443,
+                          "code": "P010CSD",
+                          "name": "北京通州口岸仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209993828302,
+                          "code": "P010CKD",
+                          "name": "北京通州口岸营业部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997609439,
+                          "code": "P010CSF",
+                          "name": "北京顺义食品仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997646144,
+                          "code": "P010CKE",
+                          "name": "北京顺义食品配送部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997646148,
+                          "code": "P010CDD",
+                          "name": "北京顺义食品中转部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667108,
+                          "code": "P010CSP",
+                          "name": "surui001测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667110,
+                          "code": "P010CSP02",
+                          "name": "surui003测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667111,
+                          "code": "P010CSP03",
+                          "name": "surui004测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667118,
+                          "code": "P010CSQ",
+                          "name": "surui006测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667119,
+                          "code": "P010CSQ01",
+                          "name": "surui009测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667120,
+                          "code": "P010CSQ02",
+                          "name": "surui007测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667121,
+                          "code": "P010CSQ03",
+                          "name": "surui008测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667122,
+                          "code": "P010CSP04",
+                          "name": "surui010测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667123,
+                          "code": "P010CSP05",
+                          "name": "surui011测试仓储部",
+                          "parentCode": "P010LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190691,
+                  "code": "P022LYB",
+                  "name": "天津区域公司",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10119656565866,
+                          "code": "P022CSA",
+                          "name": "天津东丽仓储部",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10127626506195,
+                          "code": "P022CDA",
+                          "name": "天津东丽中转部",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10195220495727,
+                          "code": "P022LFP",
+                          "name": "剑桥配送部",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306948,
+                          "code": "P022CKA",
+                          "name": "天津冷运大件部",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209823161264,
+                          "code": "P022LFA",
+                          "name": "天津武清营业部",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492933,
+                          "code": "P022CTA",
+                          "name": "天津东丽运输部",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997667311,
+                          "code": "022Z484",
+                          "name": "自动化名G晗短钱",
+                          "parentCode": "P022LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190692,
+                  "code": "P311LYB",
+                  "name": "石家庄区域公司",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10138576158868,
+                          "code": "P351CSA",
+                          "name": "太原小店仓储部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10157324349037,
+                          "code": "P311LFA",
+                          "name": "石家庄冷运大件部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10157324773230,
+                          "code": "P311CDA",
+                          "name": "石家庄元氏县中转部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209823160725,
+                          "code": "P316LFA",
+                          "name": "廊坊三河营业部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492935,
+                          "code": "P311CTA",
+                          "name": "石家庄元氏运输部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209986270655,
+                          "code": "P351LFC",
+                          "name": "太原小店营业部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209991032540,
+                          "code": "P358LFA",
+                          "name": "吕梁文水营业部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994886750,
+                          "code": "P311CSB",
+                          "name": "石家庄元氏仓储部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994886758,
+                          "code": "P471LFA",
+                          "name": "呼和浩特新城营业部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997055162,
+                          "code": "P312LFI",
+                          "name": "保定高碑店专线项目营业部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997055168,
+                          "code": "P311LFI",
+                          "name": "石家庄裕华专线项目营业部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997227607,
+                          "code": "P316CSB",
+                          "name": "廊坊三河仓储部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997227611,
+                          "code": "P471CSB",
+                          "name": "呼和浩特新城仓储部",
+                          "parentCode": "P311LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190694,
+                  "code": "P532LYB",
+                  "name": "青岛区域公司",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10148323255815,
+                          "code": "P532CSA",
+                          "name": "青岛城阳仓储部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10148323255816,
+                          "code": "P532CDA",
+                          "name": "青岛城阳中转部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306993,
+                          "code": "P532CKA",
+                          "name": "青岛冷运大件部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492941,
+                          "code": "P532CTA",
+                          "name": "青岛城阳运输部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025903,
+                          "code": "P535LFB",
+                          "name": "烟台莱山营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209977211229,
+                          "code": "P631LFA",
+                          "name": "威海环翠营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209978710232,
+                          "code": "P536LFB",
+                          "name": "潍坊诸城营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209980649057,
+                          "code": "P532LFG",
+                          "name": "青岛城阳阿里山营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486954,
+                          "code": "P532LFJ",
+                          "name": "青岛城阳专业市场营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997424190,
+                          "code": "P543LFA",
+                          "name": "滨州阳信营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997562751,
+                          "code": "P633LFC",
+                          "name": "日照岚山水产项目营业部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997631064,
+                          "code": "P633CSB",
+                          "name": "日照岚山食品仓储部",
+                          "parentCode": "P532LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190695,
+                  "code": "P531LYB",
+                  "name": "济南营业部",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10148323255813,
+                          "code": "P531CSA",
+                          "name": "济南历城仓储部",
+                          "parentCode": "P531LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209971605893,
+                          "code": "P531LFB",
+                          "name": "济南历城营业部",
+                          "parentCode": "P531LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492940,
+                          "code": "P531CTA",
+                          "name": "济南天桥运输部",
+                          "parentCode": "P531LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209996764858,
+                          "code": "P530CKA",
+                          "name": "荷泽单县营业部",
+                          "parentCode": "P531LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209997664979,
+                  "code": "P010PLQ",
+                  "name": "KEX维护页新增共配站",
+                  "parentCode": "P010Y",
+                  "deleteFlg": 0
+              },
+              {
+                  "id": 10195212620853,
+                  "code": "P756LYB",
+                  "name": "哈哈区域公司",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0
+              },
+              {
+                  "id": 10209883190714,
+                  "code": "P025LYB",
+                  "name": "南京区域公司",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10127626506196,
+                          "code": "P025CSA",
+                          "name": "南京江宁仓储部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10127626506197,
+                          "code": "P025CDA",
+                          "name": "南京江宁中转部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10157324349025,
+                          "code": "P517LFA",
+                          "name": "淮安海隆营业部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306979,
+                          "code": "P025CKA",
+                          "name": "南京冷运大件部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492956,
+                          "code": "P025CTA",
+                          "name": "南京江宁运输部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486972,
+                          "code": "P511LFD",
+                          "name": "镇江丹阳营业部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997631250,
+                          "code": "P025LFM",
+                          "name": "南京江宁营业部",
+                          "parentCode": "P025LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190717,
+                  "code": "P512LYB",
+                  "name": "苏锡常区域公司",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10119656565870,
+                          "code": "P512CSA",
+                          "name": "苏锡常张家港仓储部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10127626506198,
+                          "code": "P512CDA",
+                          "name": "苏锡常张家港中转部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10154878108947,
+                          "code": "P510LFA",
+                          "name": "无锡惠山营业部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307075,
+                          "code": "P512CKA",
+                          "name": "苏锡常冷运大件部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209967226046,
+                          "code": "P513LFC",
+                          "name": "南通崇川营业部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492957,
+                          "code": "P512CTA",
+                          "name": "苏锡常张家港运输部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486964,
+                          "code": "P512LFD",
+                          "name": "苏锡常虎丘营业部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486965,
+                          "code": "P512LFE",
+                          "name": "苏锡常昆山营业部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209996502346,
+                          "code": "P519LFD",
+                          "name": "常州钟楼营业部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209996968915,
+                          "code": "P512CSB",
+                          "name": "张家港钟薛高项目食品仓储部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997489717,
+                          "code": "P523LFB",
+                          "name": "泰州兴化营业部",
+                          "parentCode": "P512LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190720,
+                  "code": "P021LYB",
+                  "name": "上海区域公司",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10186948794293,
+                          "code": "P021CDC",
+                          "name": "上海青浦中转部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10186948794294,
+                          "code": "P021CSC",
+                          "name": "上海青浦仓储部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307037,
+                          "code": "P021CKC",
+                          "name": "上海冷运大件部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926148,
+                          "code": "P021LFE",
+                          "name": "上海奉贤营业部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209971605889,
+                          "code": "P021LFU",
+                          "name": "上海华新营业部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492954,
+                          "code": "P021CTB",
+                          "name": "上海青浦运输部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025919,
+                          "code": "P021LFZ",
+                          "name": "上海宝山营业部",
+                          "parentCode": "P021LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190721,
+                  "code": "P571LYB",
+                  "name": "杭州区域公司",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10127626506192,
+                          "code": "P571CSA",
+                          "name": "杭州萧山仓储部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10127626506194,
+                          "code": "P571CDA",
+                          "name": "杭州萧山中转部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307217,
+                          "code": "P571CKA",
+                          "name": "杭州冷运大件部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209850233564,
+                          "code": "P573LFB",
+                          "name": "嘉兴秀洲营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209955968537,
+                          "code": "P579LFB",
+                          "name": "金华赤松营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492961,
+                          "code": "P571CTA",
+                          "name": "杭州萧山运输部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025916,
+                          "code": "P571LFH",
+                          "name": "杭州勾庄农贸市场冷运营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025920,
+                          "code": "P571LFE",
+                          "name": "杭州新农都专业市场冷运营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209980656955,
+                          "code": "P575LFB",
+                          "name": "绍兴嵊州营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209987953560,
+                          "code": "P572LFB",
+                          "name": "湖州吴兴营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997599981,
+                          "code": "P576LFB",
+                          "name": "台州仙居营业部",
+                          "parentCode": "P571LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190725,
+                  "code": "P574LYB",
+                  "name": "宁波营业部",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10148323255796,
+                          "code": "P574CSA",
+                          "name": "宁波镇海仓储部",
+                          "parentCode": "P574LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10161777311682,
+                          "code": "P577CSA",
+                          "name": "温州龙湾项目仓储部",
+                          "parentCode": "P574LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209955339483,
+                          "code": "P577LFB",
+                          "name": "温州龙湾营业部",
+                          "parentCode": "P574LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492962,
+                          "code": "P574CTA",
+                          "name": "宁波北仑运输部",
+                          "parentCode": "P574LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209992135036,
+                          "code": "P574CSB",
+                          "name": "宁波麦萌项目仓储部",
+                          "parentCode": "P574LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997476552,
+                          "code": "P574LFC",
+                          "name": "宁波镇海营业部",
+                          "parentCode": "P574LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190728,
+                  "code": "P551LYB",
+                  "name": "合肥营业部",
+                  "parentCode": "P021Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10148323255800,
+                          "code": "P551CSA",
+                          "name": "合肥肥东仓储部",
+                          "parentCode": "P551LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492960,
+                          "code": "P551CTA",
+                          "name": "合肥肥东运输部",
+                          "parentCode": "P551LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997476548,
+                          "code": "P551LFE",
+                          "name": "合肥肥东营业部",
+                          "parentCode": "P551LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190699,
+                  "code": "P757LYB",
+                  "name": "佛山区域公司",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10133866672168,
+                          "code": "P757LFA",
+                          "name": "佛山南海营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306886,
+                          "code": "P759CKA",
+                          "name": "湛江食品配送部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209889785594,
+                          "code": "P759LFA",
+                          "name": "湛江霞山营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209961761806,
+                          "code": "P779LFA",
+                          "name": "北海营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926146,
+                          "code": "P771LFA",
+                          "name": "南宁营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209978710229,
+                          "code": "P757CDB",
+                          "name": "佛山南海中转部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209978710230,
+                          "code": "P757CKB",
+                          "name": "佛山冷运大件部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209978710231,
+                          "code": "P757CSB",
+                          "name": "佛山南海仓储部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997499938,
+                          "code": "P757CTA",
+                          "name": "佛山冷运运输部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997574962,
+                          "code": "P668LFB",
+                          "name": "茂名高州荔枝项目营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997584500,
+                          "code": "P758LFA",
+                          "name": "肇庆四会营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997599953,
+                          "code": "P759LFC",
+                          "name": "湛江廉江营业部",
+                          "parentCode": "P757LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190702,
+                  "code": "P898LYB",
+                  "name": "海口营业部",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10165688896520,
+                          "code": "P898CSA",
+                          "name": "海口美兰仓储部",
+                          "parentCode": "P898LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492953,
+                          "code": "P898CTA",
+                          "name": "海口美兰运输部",
+                          "parentCode": "P898LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974737392,
+                          "code": "P898LFB",
+                          "name": "海口美兰营业部",
+                          "parentCode": "P898LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997600009,
+                          "code": "P898LFC",
+                          "name": "海口琼山营业部",
+                          "parentCode": "P898LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190703,
+                  "code": "P020LYB",
+                  "name": "广州区域公司",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10129462912978,
+                          "code": "P020LFD",
+                          "name": "广州汇益冷运营业部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10165688896506,
+                          "code": "P020CSD",
+                          "name": "广州增城仓储部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10165688896507,
+                          "code": "P020CDD",
+                          "name": "广州增城中转部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306868,
+                          "code": "P020CKD",
+                          "name": "广州冷运大件部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209971612829,
+                          "code": "P020LFW",
+                          "name": "广州黄埔营业部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492949,
+                          "code": "P020CTA",
+                          "name": "广州增城运输部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209974025907,
+                          "code": "P020LFH",
+                          "name": "广州白云营业部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209990206567,
+                          "code": "P020LFC",
+                          "name": "广州番禺营业部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997593143,
+                          "code": "P020LFK",
+                          "name": "黄埔红山营业部",
+                          "parentCode": "P020LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190705,
+                  "code": "P769LYB",
+                  "name": "深莞惠区域公司",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10117330403639,
+                          "code": "P755CDA",
+                          "name": "深圳龙岗中转部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306820,
+                          "code": "P755CKA",
+                          "name": "深圳龙岗营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209867905132,
+                          "code": "P754LFB",
+                          "name": "汕头金平营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209907991544,
+                          "code": "P769LFB",
+                          "name": "东莞寮步营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968685572,
+                          "code": "P752LFA",
+                          "name": "惠州惠东营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209971100904,
+                          "code": "P755LFD",
+                          "name": "深圳前海专项营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209975018417,
+                          "code": "P755LFE",
+                          "name": "宝安冷运营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209990206571,
+                          "code": "P755LFF",
+                          "name": "深圳龙岗园山营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209990332005,
+                          "code": "P755LFH",
+                          "name": "深圳专项营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209992420528,
+                          "code": "P769CDB",
+                          "name": "深莞惠常平中转部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209992420530,
+                          "code": "P769CKB",
+                          "name": "深莞惠冷运大件部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209992420532,
+                          "code": "P769CSB",
+                          "name": "深莞惠常平仓储部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994763344,
+                          "code": "P755LFK",
+                          "name": "深圳南山专项营业部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997518021,
+                          "code": "P769CTC",
+                          "name": "东莞常平食品运输部",
+                          "parentCode": "P769LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190709,
+                  "code": "P595LYB",
+                  "name": "泉州区域公司",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10209860052196,
+                          "code": "P594LFA",
+                          "name": "莆田涵江营业部",
+                          "parentCode": "P595LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209860052197,
+                          "code": "P595LFA",
+                          "name": "泉州营业部",
+                          "parentCode": "P595LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926138,
+                          "code": "P595CSB",
+                          "name": "泉州食品仓储部",
+                          "parentCode": "P595LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926139,
+                          "code": "P595CDB",
+                          "name": "泉州食品中转部",
+                          "parentCode": "P595LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926140,
+                          "code": "P595CKB",
+                          "name": "泉州冷运大件部",
+                          "parentCode": "P595LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190710,
+                  "code": "P592LYB",
+                  "name": "厦门区域公司",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10119656565864,
+                          "code": "P592CDA",
+                          "name": "厦门同安中转部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10119656565865,
+                          "code": "P592CSA",
+                          "name": "厦门同安仓储部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306974,
+                          "code": "P592CKA",
+                          "name": "厦门冷运大件部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209896084397,
+                          "code": "P596LFA",
+                          "name": "漳州东山营业部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492945,
+                          "code": "P592CTA",
+                          "name": "厦门同安运输部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997636671,
+                          "code": "P592LFC",
+                          "name": "厦门湖里营业部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997650392,
+                          "code": "P597LFA",
+                          "name": "龙岩新罗营业部",
+                          "parentCode": "P592LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190711,
+                  "code": "P591LYB",
+                  "name": "福州营业部",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10161777311674,
+                          "code": "P591CSA",
+                          "name": "福州马尾仓储部",
+                          "parentCode": "P591LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209968926147,
+                          "code": "P593LFA",
+                          "name": "宁德霞浦营业部",
+                          "parentCode": "P591LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492944,
+                          "code": "P591CTA",
+                          "name": "福州马尾运输部",
+                          "parentCode": "P591LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997476560,
+                          "code": "P591LFD",
+                          "name": "福州马尾营业部",
+                          "parentCode": "P591LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190712,
+                  "code": "P791LYB",
+                  "name": "南昌营业部",
+                  "parentCode": "P020Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10161777311672,
+                          "code": "P791CSA",
+                          "name": "南昌小蓝仓储部",
+                          "parentCode": "P791LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125306978,
+                          "code": "P791CKA",
+                          "name": "南昌配送部",
+                          "parentCode": "P791LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492952,
+                          "code": "P791CTA",
+                          "name": "南昌小蓝运输部",
+                          "parentCode": "P791LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997476556,
+                          "code": "P791LFE",
+                          "name": "南昌小蓝营业部",
+                          "parentCode": "P791LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190730,
+                  "code": "P027LYB",
+                  "name": "武汉区域公司",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10124210465541,
+                          "code": "P027CSA",
+                          "name": "武汉东西湖仓储部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10127626506191,
+                          "code": "P027CDA",
+                          "name": "武汉东西湖中转部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10176655251377,
+                          "code": "P027LFB",
+                          "name": "武汉白沙洲专业市场营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307139,
+                          "code": "P027CKA",
+                          "name": "武汉冷运大件部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209972146736,
+                          "code": "P027LFW",
+                          "name": "武汉东西湖专项营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492963,
+                          "code": "P027CTA",
+                          "name": "武汉东西湖运输部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209976835796,
+                          "code": "P713LFB",
+                          "name": "黄冈黄州特色经济营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209980557593,
+                          "code": "P717LFB",
+                          "name": "宜昌夷陵特色经济营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486949,
+                          "code": "P027LFD",
+                          "name": "武汉黄陂G项目营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209995208592,
+                          "code": "P722LFB",
+                          "name": "随州广水G项目营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997139593,
+                          "code": "P724LFB",
+                          "name": "荆门东宝G项目营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997139597,
+                          "code": "P710LFB",
+                          "name": "襄阳樊城G项目营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997354801,
+                          "code": "P027CSD",
+                          "name": "武汉黄陂G项目食品仓储部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997459205,
+                          "code": "P717LFC",
+                          "name": "宜昌夷陵G项目营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997517994,
+                          "code": "P728LFF",
+                          "name": "潜江小龙虾项目营业部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997518724,
+                          "code": "P728CSA",
+                          "name": "潜江小龙虾项目仓储部",
+                          "parentCode": "P027LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190732,
+                  "code": "P731LYB",
+                  "name": "长沙区域公司",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10148323255798,
+                          "code": "P7311CSA",
+                          "name": "长沙雨花食品仓储部",
+                          "parentCode": "P731LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10148323255799,
+                          "code": "P7311CDA",
+                          "name": "长沙雨花食品中转部",
+                          "parentCode": "P731LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307174,
+                          "code": "P7311CKA",
+                          "name": "长沙冷运大件部",
+                          "parentCode": "P731LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492965,
+                          "code": "P7311CTA",
+                          "name": "长沙安沙食品运输部",
+                          "parentCode": "P731LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190735,
+                  "code": "P371LYB",
+                  "name": "郑州区域公司",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10138576158866,
+                          "code": "P371CSA",
+                          "name": "郑州管城仓储部",
+                          "parentCode": "P371LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10138576158867,
+                          "code": "P371CDA",
+                          "name": "郑州管城中转部",
+                          "parentCode": "P371LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307193,
+                          "code": "P371CKA",
+                          "name": "郑州冷运大件部",
+                          "parentCode": "P371LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492964,
+                          "code": "P371CTA",
+                          "name": "郑州管城运输部",
+                          "parentCode": "P371LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997424186,
+                          "code": "P371LFE",
+                          "name": "郑州新郑营业部",
+                          "parentCode": "P371LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190736,
+                  "code": "P029LYB",
+                  "name": "西安区域公司",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10133860542113,
+                          "code": "P971LFA",
+                          "name": "西宁冷运营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10148323255793,
+                          "code": "P029CSA",
+                          "name": "西安空港仓储部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10148323255795,
+                          "code": "P029CDA",
+                          "name": "西安空港中转部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307094,
+                          "code": "P029CKA",
+                          "name": "西安冷运大件部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209896084394,
+                          "code": "P953LFA",
+                          "name": "盐池专业市场营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209907991537,
+                          "code": "P029LFC",
+                          "name": "西安未央专业市场营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209955968552,
+                          "code": "P931LFB",
+                          "name": "兰州冷运营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492968,
+                          "code": "P029CTA",
+                          "name": "西安空港运输部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984486962,
+                          "code": "P029LFF",
+                          "name": "西安雨润专业市场营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994804118,
+                          "code": "P971LFB",
+                          "name": "西宁牛羊肉融通项目营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997518010,
+                          "code": "P029CTB",
+                          "name": "西安咸阳运输部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997575631,
+                          "code": "P913LFA",
+                          "name": "渭南潼关营业部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997631218,
+                          "code": "P029CSB",
+                          "name": "西安空港仓储协同仓储部",
+                          "parentCode": "P029LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190738,
+                  "code": "P991LYB",
+                  "name": "新疆G项目仓",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10209974025921,
+                          "code": "P991LFK",
+                          "name": "乌鲁木齐冷运营业部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994804126,
+                          "code": "P998CSA",
+                          "name": "新疆叶城G项目食品仓储部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994804130,
+                          "code": "P998CDA",
+                          "name": "新疆叶城G项目食品中转部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994804134,
+                          "code": "P998CKA",
+                          "name": "新疆叶城G项目食品配送部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209996984182,
+                          "code": "P998CSB",
+                          "name": "新疆喀什G项目仓储部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209996984186,
+                          "code": "P998CKB",
+                          "name": "新疆喀什G项目配送部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209996984190,
+                          "code": "P998CDB",
+                          "name": "新疆喀什G项目食品中转部",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997664219,
+                          "code": "P991LFL",
+                          "name": "乌市三宝营业点",
+                          "parentCode": "P991LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190740,
+                  "code": "P028LYB",
+                  "name": "成都区域公司",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10127671631061,
+                          "code": "P028CSB",
+                          "name": "成都双流仓储部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10135046530387,
+                          "code": "P028CDB",
+                          "name": "成都双流中转部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209125307110,
+                          "code": "P028CKB",
+                          "name": "成都冷运大件部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209907991534,
+                          "code": "P028LFC",
+                          "name": "成都海霸王专业市场营业部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492967,
+                          "code": "P028CTA",
+                          "name": "成都双流运输部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209982688280,
+                          "code": "P028CDC",
+                          "name": "成都新津G项目食品中转部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209983219767,
+                          "code": "P028CSC",
+                          "name": "成都新津G项目食品仓储部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997369498,
+                          "code": "P028LFH",
+                          "name": "成都G项目营业部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997606101,
+                          "code": "P835LFB",
+                          "name": "汉源冷运营业部",
+                          "parentCode": "P028LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190741,
+                  "code": "P023LYB",
+                  "name": "重庆营业部",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10127626506200,
+                          "code": "P023CSA",
+                          "name": "重庆巴南仓储部",
+                          "parentCode": "P023LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209823160726,
+                          "code": "P851LFA",
+                          "name": "贵阳冷运营业部",
+                          "parentCode": "P023LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209973492966,
+                          "code": "P023CTA",
+                          "name": "重庆江北运输部",
+                          "parentCode": "P023LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997120485,
+                          "code": "P854CSA",
+                          "name": "黔南龙里冰淇淋项目仓储部",
+                          "parentCode": "P023LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997476544,
+                          "code": "P023LFD",
+                          "name": "重庆江北营业部",
+                          "parentCode": "P023LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997664224,
+                          "code": "P023LFE",
+                          "name": "重庆合川营业点",
+                          "parentCode": "P023LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209883190742,
+                  "code": "P871LYB",
+                  "name": "昆明营业部",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10209889785592,
+                          "code": "P871LFA",
+                          "name": "昆明呈贡营业部",
+                          "parentCode": "P871LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209984333875,
+                          "code": "P871CSB",
+                          "name": "昆明呈贡仓储部",
+                          "parentCode": "P871LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997664056,
+                          "code": "P871LFB",
+                          "name": "昆明方德营业点",
+                          "parentCode": "P871LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997664060,
+                          "code": "P871LFC",
+                          "name": "昆明群樱汇营业点",
+                          "parentCode": "P871LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              },
+              {
+                  "id": 10209983219444,
+                  "code": "P891LYB",
+                  "name": "拉萨G项目仓",
+                  "parentCode": "P027Y",
+                  "deleteFlg": 0,
+                  "children": [
+                      {
+                          "id": 10209972146735,
+                          "code": "P891LFA",
+                          "name": "拉萨当雄营业部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209982688284,
+                          "code": "P891CSA",
+                          "name": "拉萨堆龙德庆G项目食品仓储部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209982688285,
+                          "code": "P891CDA",
+                          "name": "拉萨堆龙德庆G项目食品中转部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209982688286,
+                          "code": "P891CKA",
+                          "name": "拉萨堆龙德庆G项目食品配送部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209982688287,
+                          "code": "P892LFA",
+                          "name": "日喀则G项目营业部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209994804138,
+                          "code": "P897LFA",
+                          "name": "西藏日土G项目营业部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997236410,
+                          "code": "P894LFA",
+                          "name": "波密G项目营业点",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997562764,
+                          "code": "P895LFA",
+                          "name": "昌都卡若G项目营业部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      },
+                      {
+                          "id": 10209997641695,
+                          "code": "P893CSA",
+                          "name": "拉萨山南G项目食品仓储部",
+                          "parentCode": "P891LYB",
+                          "deleteFlg": 0
+                      }
+                  ]
+              }
+          ]
+      }
+  ],
+  "message": "success",
+  "success": true
+}
